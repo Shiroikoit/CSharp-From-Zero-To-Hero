@@ -8,7 +8,7 @@ namespace BootCamp.Chapter
     class Program
     {
 
-        //wait does this actually work???
+        
         public static void Main(string[] args)
         {
             PrintDetails();
